@@ -1,4 +1,4 @@
-public class ejercicio8 {
+public class Ejercicio8 {
 	public static void main (String [] args) {
 		//Definimos las variables que plantea el ejercicio
 		int x= 3;
