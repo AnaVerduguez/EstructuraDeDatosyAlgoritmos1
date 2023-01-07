@@ -1,5 +1,5 @@
 //Primera linea. El archivo tiene que tener el mismo nombre en cual lo guarde
-public class HolaMundo{ 
+public class PrimerPrograma{ 
     public static void main(String args[]){
         //Salida por pantalla
         System.out.println("Hola Mundo");
